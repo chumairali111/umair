@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-string umair;
-cout<<umair;
-cin>>umair;
+int main ()
+cout<<"umair";
+
 return 0;
